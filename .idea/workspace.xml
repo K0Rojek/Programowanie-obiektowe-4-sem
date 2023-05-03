@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064c04e2-f022-4681-8426-9aa30a7e59be" name="Changes" comment="intial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin5.java" afterDir="false" />
+    <list default="true" id="064c04e2-f022-4681-8426-9aa30a7e59be" name="Changes" comment="money class improvement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_50.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683151648600</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="intial commit">
+      <created>1683153164998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683153164998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1683153242485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683153242485</updated>
+    </task>
+    <task id="LOCAL-00007" summary="money class improvement">
+      <created>1683153356873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683153356873</updated>
+    </task>
+    <task id="LOCAL-00008" summary="money class improvement">
+      <created>1683153541165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683153541165</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="money class improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="money class improvement" />
   </component>
 </project>
