@@ -6,4 +6,8 @@ public abstract class Money {
     public double getValue() {
         return value;
     }
+
+    public String toString() {
+        return Double.toString(value);
+    }
 }

@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Transaction {
-    private List<Ticket> soldTickets;
-    private double saleValue;
-    private LocalDate saleDate;
+    final private List<Ticket> soldTickets;
+    final private double saleValue;
+    final private LocalDate saleDate;
 
     public Transaction(List<Ticket> soldTickets, double saleValue) {
         this.soldTickets = soldTickets;
