@@ -10,5 +10,6 @@ public class TicketMachine {
     private Ticket[] tickets = new Ticket[]{
             new Ticket("Reduced", 2.00), new Ticket("Normal", 3.00)
     };
-    private List<Transaction> soldTickets = new ArrayList<>();
+    private ArrayList<Transaction> soldTickets = new ArrayList<>();
+    private ;
 }

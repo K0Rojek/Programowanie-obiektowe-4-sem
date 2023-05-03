@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064c04e2-f022-4681-8426-9aa30a7e59be" name="Changes" comment="money class improvement">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TicketSeller/TicketMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/TicketMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Transaction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683155029559</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="money class improvement">
+      <created>1683157263268</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683157263268</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -25,4 +25,10 @@ public class Transaction {
     public LocalDate getSaleDate() {
         return saleDate;
     }
+
+    public String toString() {
+        return "date: " + saleDate + "\n"
+                + soldTickets + "\n"
+                + "total price: " + saleValue;
+    }
 }
