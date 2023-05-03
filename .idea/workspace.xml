@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="064c04e2-f022-4681-8426-9aa30a7e59be" name="Changes" comment="money class improvement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Money/Coin0_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicketSeller/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicketSeller/Ticket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683153541165</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="money class improvement">
+      <created>1683153995720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683153995720</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

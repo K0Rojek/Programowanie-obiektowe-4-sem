@@ -1,9 +1,9 @@
 package TicketSeller;
 
 public class Ticket {
-    private String ticketType;
+    final private String ticketType;
 
-    private double ticketPrice;
+    final private double ticketPrice;
     public Ticket(String ticketType, double ticketPrice) {
         this.ticketType = ticketType;
         this.ticketPrice = ticketPrice;
