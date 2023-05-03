@@ -11,5 +11,5 @@ public class TicketMachine {
             new Ticket("Reduced", 2.00), new Ticket("Normal", 3.00)
     };
     private ArrayList<Transaction> soldTickets = new ArrayList<>();
-    private ;
+    //private ;
 }
